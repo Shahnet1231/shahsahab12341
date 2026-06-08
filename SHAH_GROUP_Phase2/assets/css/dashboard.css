@@ -1,0 +1,8 @@
+
+body{font-family:Arial;margin:0}
+header{display:flex;justify-content:space-between;padding:12px;background:#0a8f3d;color:#fff}
+aside{width:220px;position:fixed;top:52px;bottom:0;background:#f1f1f1}
+main{margin-left:230px;padding:20px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+.card{padding:20px;background:#fff;border:1px solid #ddd;border-radius:8px}
+footer{text-align:center;padding:10px}
